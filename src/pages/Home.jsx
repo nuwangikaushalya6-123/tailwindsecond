@@ -8,6 +8,10 @@ const Home =()=>{
              <div className="text-{100px}">Hotel
             
             </div>
+
+            <div className="text-{100px}">Hotel Name
+            
+            </div>
         </>
     )
 }
